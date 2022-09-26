@@ -1,1 +1,196 @@
 
+
+*Especificación de requisitos de software
+
+Proyecto: ## Proyecto de Administración de canchas de padel ##
+          ====================================================
+
+Septiembre 2022
+
+--------------------------------------------------------------------------------------------
+
+Instrucciones para el uso de este formato
+
+Este formato es una plantilla tipo para documentos de requisitos del software.
+
+Está basado y es conforme con el estándar IEEE Std 830-1998.
+
+Los textos en color azul son indicaciones que deben eliminarse y, en su caso, sustituirse por los contenidos descritos en cada apartado.
+
+
+Ficha del documento
+====================
+
+Fecha
+Revisión
+Autor
+Verificado dep. Calidad.
+2022
+
+
+Contenido
+FICHA DEL DOCUMENTO	3
+CONTENIDO	4
+1	INTRODUCCIÓN	6
+1.1	Propósito	6
+1.2	Alcance	6
+1.3	Personal involucrado	6
+1.4	Definiciones, acrónimos y abreviaturas	7
+1.5	Referencias	7
+1.6	Resumen	7
+2	DESCRIPCIÓN GENERAL	7
+2.1	Perspectiva del producto	7
+2.3	Características de los usuarios	8
+2.4	Restricciones	9
+3	REQUISITOS ESPECÍFICOS	9
+3.2	Product Backlog	17
+3.2.1	Product Backlog	17
+3.3	Sprints	19
+3.3.1	Sprint 1	19
+3.3.2	Spint 2	20
+
+------------------------------------------------------------------------------------------------------------------
+
+Introducción
+_____________
+
+	Este documento es una Especificación de Requisitos Software (ERS) para el Sistema de información para la gestión de procesos y control de inventarios. Esta especificación se ha estructurado basándose en las directrices dadas por el estándar IEEE Práctica Recomendada para Especificaciones de Requisitos Software ANSI/IEEE 830, 1998.
+
+Propósito
+__________
+
+	El presente documento tiene como propósito definir las especificaciones funcionales, para el desarrollo de un sistema de información web que permitirá …………..
+
+Alcance
+________
+
+Esta especificación de requisitos está dirigida al usuario del sistema, ………………
+
+Personal involucrado
+_____________________
+
+*Nombre =
+
+
+*Rol =
+
+
+*Categoría Profesional =
+
+
+*Responsabilidad =
+
+
+*Información de contacto =  mail
+
+
+Definiciones, acrónimos y abreviaturas
+_______________________________________
+
+Nombre                                                                                          Descripción
+_______                                                                                        ______________
+Usuario                                                                                          Persona que usará el sistema para gestionar procesos
+
+SIS-I                                                                                            Sistema de Información Web para la Gestión de Procesos Administrativos y Académicos
+
+ERS                                                                                              Especificación de Requisitos Software
+
+RF                                                                                               Requerimiento Funcional
+
+RNF                                                                                              Requerimiento No Funcional
+
+FTP                                                                                              Protocolo de Transferencia de Archivos
+
+Moodle                                                                                           Aula Virtual 
+
+
+
+Referencias
+______________
+
+Titulo del Documento                       Referencia
+_____________________                      __________
+
+Standard IEEE 830 - 1998                   IEEE 
+
+
+
+Resumen
+_______
+
+Breve resumen de las secciones del documento.
+
+
+Descripción general
+___________________
+
+Perspectiva del producto =
+El sistema ……….   será un producto diseñado para trabajar en entornos WEB, lo que permitirá su utilización de forma rápida y eficaz, además ……
+
+Características de los usuarios
+_______________________________
+
+Tipo de usuario                                Administrador
+_______________                                ______________
+
+
+Formación                                      Manejo de herramientas informaticas
+
+Actividades                                    Control y manejo del sistema en general
+
+
+
+Tipo de usuario                                Visitante
+
+Formación                                      Manejo de entornos web
+
+Actividades                                    Observa e indaga información de ……
+
+
+
+Restricciones
+______________
+
+Interfaz para ser usada con internet (solamente o puede ser de escritorio).
+
+Lenguajes y tecnologías en uso: HTML, JavScript……..
+
+
+
+Requisitos específicos
+_______________________
+
+
+Product Backlog =
+
+
+Escribir todas las historias de Usuarios encontradas para el proyecto
+
+
+
+
+
+Sprints
+________
+
+N° de sprint         =                       01 
+
+Sprint Backlog       =
+
+
+Responsabilidades    =
+
+
+Calendario           =
+
+
+Inconvenientes       =
+	
+
+
+----------------------------------------------------------------------------------------------------------------------------------
+Realizar la carga de la tabla teniendo en cuenta todos los sprint que se realicen para este espacio curricular.
+
+
+
+
