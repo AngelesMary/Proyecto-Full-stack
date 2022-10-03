@@ -107,6 +107,10 @@ RF
 
 2.5 Requisitos Futuros.
 1. En el futuro se prevé agregar distintas funcionalidades como la creación de un chat donde puedan interactuar los usuarios.
+2. Posibilidad de exportar horarios, torneos y demás determinaciones con respecto a la actividad en versión PDF.
+3. Desarrollar aplicación móvil.
+4. Sistema notificación vía e mail.
+5. Mejoramientos de algoritmo para autogestión.
 
 3. Requisitos específicos 
 Product Backlog
