@@ -101,16 +101,22 @@ RF
 2.2 FUNCIONES DEL PRODUCTO:
 1. El sistema enviará un correo electrónico cuando se registre alguna de las siguientes transacciones: solicitud de turno y confirmación de la misma, emisión de factura y registro de pago de usuario 
 2. Al aprobar un pedido, la solicitud pasará al siguiente paso del flujo de trabajo (workflow) de aprobación configurado en el sistema.
-3.  El sistema permitirá a los usuarios autorizados ingresar planes y cronogramas.
-4.  El sistema permitirá aprobar, cambiar o actualizar planes y cronogramas. 
+3. El sistema permitirá a los usuarios autorizados ingresar planes y cronogramas.
+4. El sistema permitirá aprobar, cambiar o actualizar planes y cronogramas. 
 5. Una vez registrado cada usuario se le asignara un número de identificación. 
-6.  El sistema controlará el acceso y lo permitirá solamente a usuarios autorizados. Los usuarios deben ingresar al sistema con un nombre de usuario y contraseña.
+6. El sistema controlará el acceso y lo permitirá solamente a usuarios autorizados. Los usuarios deben ingresar al sistema con un nombre de usuario y contraseña.
 7. El sistema enviará una alerta al administrador del sistema cuando ocurra alguno de los siguientes eventos: Registro de nueva cuenta, ingreso al sistema por parte del cliente, 2 o más intentos fallidos en el ingreso de la contraseña de usuario y cambio de contraseña de usuario.
 8. Cualquier intercambio de datos vía internet que realice el software se realizará por medio del protocolo encriptado HTTP
-9. Desarrollo de una red social: La aplicación cuenta con un factor de red social, a través de la cual se pretende unificar a usuarios que pretendan organizar o participar en torneos de pádel. 
-10.  Permitir la creación y correcto desarrollo de competiciones de pádel: El objetivo principal es facilitar en la mayor medida de lo posible la creación y supervisión de las competiciones que en ella se creen. Podrá permitir que cualquier usuario pueda crear competiciones.
-
-
+9. Permitir la creación y correcto desarrollo de competiciones de pádel: El objetivo principal es facilitar en la mayor medida de lo posible la creación y supervisión de las competiciones que en ella se creen. Podrá permitir que cualquier usuario pueda crear competiciones.
+10.La tienda tendrán productos expuestos  a través de mi carrito.
+11.Estos artículos serán principalmente palas, pelotas y camisetas, que se Pedirán a un único proveedor y se venderán directamente a los clientes en el club, sin Intermediarios. 
+12.Habrá un pequeño stock de estos productos en un almacén, construido para este propósito.
+13.Estará disponible para el cliente un pequeño catálogo con los artículos en venta.
+14.Nombre de la marca y logo
+15.Menu con categorías
+16.Formas de pago
+17.Metodo deenvio 
+18.Contacto
 
 2.3 Características de los Usuarios.
 1. Los usuarios finales de este producto son personas sin requerir ningún tipo de formación previa.
