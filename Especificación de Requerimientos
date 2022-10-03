@@ -111,40 +111,33 @@ RF
 3. Requisitos específicos 
 
 Product Backlog
-#REQ US01 - Acompañante
+#RUS01 - Acompañante
 Descripción: Como usuario quiero que haya una opción para que pueda jugar con alguien en el caso que no tenga compañero.
-#REQ US02 - Cotización
+#RUS02 - Cotización
 Descripción: Como usuario quiero que la página contenga información sobre el precio y los medios de pago de cada cancha.
-#REQ US03 - Servicios extras
+#RUS03 - Servicios extras
 Descripción: Como usuario quiero que muestre una descripción y fotos de los servicios adicionales que cuenta el club.
-#REQ US04 - Cronograma
+#RUS04 - Cronograma
 Descripción: Como usuario quiero poder acceder en forma virtual a los días y horarios de las canchas disponibles.
-
-#REQ US05 – Contacto
+#RUS05 – Contacto
 Descripción: Como usuario quiero ver las formas de contactar al club para obtener el asesoramiento necesario.
-#REQ US06 – Ubicación
+#RUS06 – Ubicación
 Descripción: Como usuario quiero ver la localización del club y los medios de transportes cercanos para elegir la mejor opción para ir al club.
-
-#REQ US07 - Puntuación
+#RUS07 - Puntuación
 Descripción: Como usuario quiero ver la calificación que tiene el club para ver su reputación.
-#REQ US08 - Feedback/Opinión
+#RUS08 - Feedback/Opinión
 Descripción: Como usuario quiero calificar al club y poder escribir un comentario para reflejar mi experiencia.
-
-#REQ US09 - Descripción de canchas
+#RUS09 - Descripción de canchas
 Descripción: Como usuario quiero saber con qué tipo de característica cuenta cada cancha.
-#REQ US10 - Registro universal
+#RUS10 - Registro universal
 Descripción: Como usuario quiero tener la posibilidad de hacerme socio para poder acceder a todas las instalaciones asociadas al club.
-
-#REQ US11- Tienda
+#RUS11- Tienda
 Descripción: Como usuario quiero la opción donde me indique varios puntos donde se venda indumentaria y accesorios de padel.
-
-#REQ US12 - Información de torneo
+#RUS12 - Información de torneo
 Descripción: Como usuario quiero ver los resultados del día, fixture/calendario con los próximos partidos para estar actualizado.
-
-#REQ US13 - Instalaciones
+#RUS13 - Instalaciones
 Descripción: Como usuario quiero ver aspectos del establecimiento como lugar, baños, canchas, disponibilidad horaria, para su uso.
-
-#REQ US14 - Torneos
+#RUS14 - Torneos
 Descripción: Como usuario quiero poder ver e inscribirme en torneos para poder competir con gente de mi nivel.
 
 
