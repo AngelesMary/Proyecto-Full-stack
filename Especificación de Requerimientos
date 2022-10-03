@@ -95,97 +95,62 @@ SIS-I                                                                           
 
 ERS                                                                                              Especificación de Requisitos Software
 
-RF                                                                                               Requerimiento Funcional
-
-RNF                                                                                              Requerimiento No Funcional
-
-FTP                                                                                              Protocolo de Transferencia de Archivos
-
-Moodle                                                                                           Aula Virtual 
-
-
-
-Referencias
-______________
-
-Titulo del Documento                       Referencia
-_____________________                      __________
-
-Standard IEEE 830 - 1998                   IEEE 
-
-
-
-Resumen
-_______
-
-Breve resumen de las secciones del documento.
-
-
-Descripción general
-___________________
-
-Perspectiva del producto =
-El sistema ……….   será un producto diseñado para trabajar en entornos WEB, lo que permitirá su utilización de forma rápida y eficaz, además ……
-
-Características de los usuarios
-_______________________________
-
-Tipo de usuario                                Administrador
-_______________                                ______________
-
-
-Formación                                      Manejo de herramientas informaticas
-
-Actividades                                    Control y manejo del sistema en general
-
-
-
-Tipo de usuario                                Visitante
-
-Formación                                      Manejo de entornos web
-
-Actividades                                    Observa e indaga información de ……
-
-
-
-Restricciones
-______________
-
-Interfaz para ser usada con internet (solamente o puede ser de escritorio).
-
-Lenguajes y tecnologías en uso: HTML, JavScript……..
-
-
-
-Requisitos específicos
-_______________________
-
-
-Product Backlog =
-
-
-Escribir todas las historias de Usuarios encontradas para el proyecto
-
-
-
-
-
-Sprints
-________
-
-N° de sprint         =                       01 
-
-Sprint Backlog       =
-
-
-Responsabilidades    =
-
-
-Calendario           =
-
-
-Inconvenientes       =
+RF                                     
 	
+2. Descripción General.
+
+2.1 Perspectiva del producto.
+1. Siendo desarrollado para un manejo eficaz dentro del entorno web y en relación con la actividad en cuestión.
+2. TDB.
+
+2.3 Características de los Usuarios.
+1. Los usuarios finales de este producto son personas sin requerir ningún tipo de formación previa.
+2. Adicionalmente serán usuarios de este producto, técnicos electrónicos que se ocuparán del mantenimiento del software.
+
+2.4 Restricciones.
+1. El software debe mantenerse bajo control de versiones.
+
+2.5 Requisitos Futuros.
+1. En el futuro se prevé agregar distintas funcionalidades como la creación de un chat donde puedan interactuar los usuarios.
+
+3. Requisitos específicos 
+
+Product Backlog
+#REQ US01 - Acompañante
+Descripción: Como usuario quiero que haya una opción para que pueda jugar con alguien en el caso que no tenga compañero.
+#REQ US02 - Cotización
+Descripción: Como usuario quiero que la página contenga información sobre el precio y los medios de pago de cada cancha.
+# REQ US03 - Servicios extras
+Descripción: Como usuario quiero que muestre una descripción y fotos de los servicios adicionales que cuenta el club.
+#REQ US04 - Cronograma
+Descripción: Como usuario quiero poder acceder en forma virtual a los días y horarios de las canchas disponibles.
+
+# REQ US05 – Contacto
+Descripción: Como usuario quiero ver las formas de contactar al club para obtener el asesoramiento necesario.
+#REQ US06 – Ubicación
+Descripción: Como usuario quiero ver la localización del club y los medios de transportes cercanos para elegir la mejor opción para ir al club.
+
+#REQ US07 - Puntuación
+Descripción: Como usuario quiero ver la calificación que tiene el club para ver su reputación.
+#REQ US08 - Feedback/Opinión
+Descripción: Como usuario quiero calificar al club y poder escribir un comentario para reflejar mi experiencia.
+
+#REQ US09 - Descripción de canchas
+Descripción: Como usuario quiero saber con qué tipo de característica cuenta cada cancha.
+#REQ US10 - Registro universal
+Descripción: Como usuario quiero tener la posibilidad de hacerme socio para poder acceder a todas las instalaciones asociadas al club.
+
+#REQ US11- Tienda
+Descripción: Como usuario quiero la opción donde me indique varios puntos donde se venda indumentaria y accesorios de padel.
+
+#REQ US12 - Información de torneo
+Descripción: Como usuario quiero ver los resultados del día, fixture/calendario con los próximos partidos para estar actualizado.
+
+#REQ US13 - Instalaciones
+Descripción: Como usuario quiero ver aspectos del establecimiento como lugar, baños, canchas, disponibilidad horaria, para su uso.
+
+#REQ US14 - Torneos
+Descripción: Como usuario quiero poder ver e inscribirme en torneos para poder competir con gente de mi nivel.
 
 
 ----------------------------------------------------------------------------------------------------------------------------------
