@@ -115,12 +115,12 @@ Product Backlog
 Descripción: Como usuario quiero que haya una opción para que pueda jugar con alguien en el caso que no tenga compañero.
 #REQ US02 - Cotización
 Descripción: Como usuario quiero que la página contenga información sobre el precio y los medios de pago de cada cancha.
-# REQ US03 - Servicios extras
+#REQ US03 - Servicios extras
 Descripción: Como usuario quiero que muestre una descripción y fotos de los servicios adicionales que cuenta el club.
 #REQ US04 - Cronograma
 Descripción: Como usuario quiero poder acceder en forma virtual a los días y horarios de las canchas disponibles.
 
-# REQ US05 – Contacto
+#REQ US05 – Contacto
 Descripción: Como usuario quiero ver las formas de contactar al club para obtener el asesoramiento necesario.
 #REQ US06 – Ubicación
 Descripción: Como usuario quiero ver la localización del club y los medios de transportes cercanos para elegir la mejor opción para ir al club.
