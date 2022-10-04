@@ -55,28 +55,28 @@ Propósito
 __________
 
 	El presente documento tiene como propósito definir las especificaciones funcionales, para el desarrollo de un sistema de información web de nuestro cliente que permitirá mostrar sus distintos establecimientos para práctica de pádel.
-	El cliente necesita ofrecer sus predios en los que cuentan can varias canchas de pádel, vesturios(femenino y masculino), servios de bares, cuenta con personal capacitada para la enseñanza del deporte.
-	Desea la promoción en formato de fatografías la calidad y el estado de los predios, indicando la ubicación, elacceso y los medios de trasporte publicos que llegan a esos lugares.
-	Otra finalidad que presenta el cliente es ofrecer clases de pádel para aquellos que esten interesados, con un buen sistema de informatico que detalle los días, horarios, lugar y costo.
+	El cliente necesita ofrecer sus predios en los que cuentan con varias canchas de pádel, vestuarios(femenino y masculino), servicios de bares, cuenta con personal capacitada para la enseñanza del deporte.
+	Desea la promoción en formato de fotografías, la calidad y el estado de los predios, indicando la ubicación, el acceso y los medios de transporte públicos que llegan a esos lugares.
+	Otra finalidad que presenta el cliente es ofrecer clases de pádel para aquellos que esten interesados, con un buen sistema informático que detalle los días, horarios, lugar y costo.
 Alcance
 ________
 
-Esta especificación de requisitos está dirigida al usuario del sistema móvil y web, de distintos dispositivos. Por la ubicación de los predios, los interesados serán de la capital cordobesa y localidades ceranas.
-El servicio que ofrece el cliente, no presenta inconvendientes a relación de sexo, edad, religión, cultura, etc. Está direigido para aquellos que tengan intereés por este deporte.
+Esta especificación de requisitos está dirigida al usuario del sistema móvil y web, de distintos dispositivos. Por la ubicación de los predios, los interesados serán de la capital cordobesa y localidades cercanas.
+El servicio que ofrece el cliente, no presenta inconvenientes en relación a sexo, edad, religión, cultura, etc. Está dirigido para aquellos que tengan interés por este deporte.
 
 Personal involucrado
 _____________________
 
-*Nombre =AGUSTIN CHAROQUÍ, EDUARDO IOURIO, VERONICA GUERRERO
+*Nombre =AGUSTIN CHAROQUÍ, EDUARDO IUORIO, VERONICA GUERRERO
 
 
-*Rol = Programar las acciones que se neesitamos que hagan los visitantes para cumplir los objetivos del proyecto.
+*Rol = Programar las acciones que  necesitamos que hagan los visitantes para cumplir los objetivos del proyecto.
 
 
 *Categoría Profesional = Desarrollo web
 
 
-*Responsabilidad =Ocuparse de la parte técnica y dar forma a la estructura de la página web.
+*Responsabilidad = Ocuparse de la parte técnica y dar forma a la estructura de la página web.
 
 
 *Información de contacto = agustin_chrq@hotmail.com, eduiuorio@gmail.com, guerreroveronicar2013@gmail.com
@@ -84,13 +84,13 @@ _____________________
 *Nombre =FLAVIA ANDRIANI, JONATHAN BUSTOS
 
 
-*Rol =Dar forma a los elemetos visuales de la página.
+*Rol = Dar forma a los elementos visuales de la página.
 
 
-*Categoría Profesional =Diseñador Gráfico
+*Categoría Profesional = Diseñador Gráfico
 
 
-*Responsabilidad =Implementar recursos visuales que despierte interés al visitante,con los que pueda transmitir los valores de la empresa.
+*Responsabilidad = Implementar recursos visuales que despierten interés al visitante, con los que pueda transmitir los valores de la empresa.
 
 
 *Información de contacto =  flavia.andriani@mi.unc.edu.ar, jonathanbustos012@gmail.com
@@ -98,14 +98,14 @@ _____________________
 *Nombre =ELIANA DOMINGUEZ
 
 
-*Rol =Transmitir el mensaje de manera correcta.
+*Rol = Transmitir el mensaje de manera correcta.
 
 
-*Categoría Profesional =Redactor de Contenidos
+*Categoría Profesional = Redactor de Contenidos.
 
 
 *Responsabilidad =Traducir a mensajes las ideas que la empresa quiera transmitir a los lectores.
-Debe trabajar con una serie de palabras claces o keywords, para mejorar la posición de cara a los buscadores.
+Debe trabajar con una serie de palabras claves o keywords, para mejorar la posición de cara a los buscadores.
 
 
 *Información de contacto =  crisely.cye@gmail.com
@@ -113,10 +113,10 @@ Debe trabajar con una serie de palabras claces o keywords, para mejorar la posic
 *Nombre = MARIA DE LOS ANGELES CEJAS
 
 
-*Rol =Organizar el trabajo de equipo
+*Rol = Organizar el trabajo de equipo
 
 
-*Categoría Profesional =Project Manager
+*Categoría Profesional = Project Manager
 
 
 *Responsabilidad = Identificar los tiempos de ejecución, coordinar las fases y será el responsable final de la web. 
@@ -131,10 +131,10 @@ Debe trabajar con una serie de palabras claces o keywords, para mejorar la posic
 *Rol =Seguir siempre al comsumidor, es el encargado del marketing
 
 
-*Categoría Profesional =Marketing Digital
+*Categoría Profesional = Marketing Digital
 
 
-*Responsabilidad =Deberá tener en cuenta todas las opiniones de los visitantes y elaborar diferentes estrategias para conseguir una buena difusión en el mercado.
+*Responsabilidad = Deberá tener en cuenta todas las opiniones de los visitantes y elaborar diferentes estrategias para conseguir una buena difusión en el mercado.
 
 
 *Información de contacto =  diegogaray1987@gmail.com
@@ -142,14 +142,14 @@ Debe trabajar con una serie de palabras claces o keywords, para mejorar la posic
 *Nombre =ENZO ESQUIVEL
 
 
-*Rol =Difundir el proyecto web a través de los buscadores
+*Rol = Difundir el proyecto web a través de los buscadores
 
 
 *Categoría Profesional = Seo/sem Manager
 
 
-*Responsabilidad =Indicar al redactor de contenidos las keys más interesantes, crear campañas en Google Adwords,
-gestionar los presupuestos para obtener máximo rendimiento con la mínima inversión.
+*Responsabilidad = Indicar al redactor de contenidos las keys más interesantes, crear campañas en Google Adwords,
+Gestionar los presupuestos para obtener el máximo rendimiento con la mínima inversión.
 
 
 *Información de contacto =  enzomateo2002@gmail.com
