@@ -5,6 +5,7 @@ En rasgos generales se propone la distribución en los siguientes Sprints:
 
 SPRINT 0
 Fecha Inicio = 17/09/2022 -  Fecha de Fin = 03/10/2022
+
 Pasos a seguir de acuerdo a las Fases del Ciclo de Vida de un Software:
 ANÁLISIS
 Definir requerimientos que dejarán reflejados en el IEEE830.
@@ -19,11 +20,15 @@ Llevar registro de meetings y toda la info necesaria dentro de la Wiki de GitHub
 
 SPRINT 1
 Fecha Inicio = 03/10/2022 -  Fecha de Fin = 17/10/2022
-****** En las próximas semanas se dejará más detallado cada punto.
 
-FrontEnd: Estructura HTML, semántica y estilos CSS
+Frontend 
+ Estructura HTML, semántica y estilos CSS
 Navegabilidad - Links funcionales. Responsive
-BOOTSTRAP y funcionalidad con JavaScript
+BOOTSTRAP
+Backend: 
+Modelado de DB. DER, Modelo Relacional. 
+Abstracción y Modularización en MVC (consultar los videos del Módulo Programador Full Stack - Backend: Libro de Introducción a la programación en python)
+
 
 SPRINT 2
 Fecha Inicio = 17/10/2022 -  Fecha de Fin = 14/11/2022
