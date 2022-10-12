@@ -1,0 +1,127 @@
+/* Aqui comienzan los estilos de la página contacto*/ 
+form {
+    width: 450px;
+    margin: auto;
+    background: rgba(0,0,0,0.4);
+    padding: 10px 20px;
+    box-sizing: border-box;
+    margin-top: 20px;
+    border-radius: 7px;
+}
+
+    
+h3 {
+    color: black;
+    margin: 0;
+    text-align: center;
+    font-size: 30px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    }
+    
+    
+    p {
+        color: rgb(70, 61, 61);
+        margin: 0;
+        text-align: center;
+        font-size: 20px;
+        margin-bottom: 20px;
+        margin-left: 20px;
+    }
+    
+    
+    input, textarea {
+        width: 100%;
+        margin-bottom: 20px;
+        padding: 7px;
+        box-sizing: border-box;
+        font-size: 17px;
+        border: none;
+    }
+    
+    textarea {
+        min-height: 100px;
+        max-height: 200px;
+        max-width: 100%;
+    }
+    
+    #boton1{
+        background: #31384A;
+        color: #fff;
+        padding: 20px;
+    }
+    
+    #boton1:hover{
+        cursor: pointer;
+    }
+    
+    @media (max-width: 480px;){
+        form{
+            width: 100%;
+        }
+    }
+    /* Aqui terminan los estilos de la página contacto*/ 
+
+
+    /* Aqui comienza los estilos de la página opiniones*/ 
+
+    .container {
+        margin:auto;
+        background: #fff;
+        border-radius: 8px;
+        padding: 0px;
+    }
+    
+    .comment {
+        display: block;
+        transition: all 1s;
+    }
+    .commentClicked {
+        min-height: 0px;
+        border: 1px solid #eee;
+        border-radius: 5px;
+        padding: 5px 10px
+    }
+    
+    .container textarea {
+        width: 100%;
+        border: none;
+        background: #E8E8E8;
+        padding: 5px 10px;
+        height: 60%;
+        border-radius: 5px 5px 0px 0px;
+        border-bottom: 2px solid #016BA8;
+        transition: all 0.5s;
+        margin-top: 5px;
+        margin-left: 200px;
+    }
+    
+    button.primaryContained {
+        background: #016ba8;
+        color: #fff;
+        padding: 10px 10px;
+        border: none;
+        margin-top: 0px;
+        cursor: pointer;
+        text-transform: uppercase;
+        letter-spacing: 4px;
+        box-shadow: 0px 2px 6px 0px rgba(0, 0, 0, 0.25);
+        transition: 1s all;
+        font-size: 10px;
+        border-radius: 5px;
+        margin-left: 200px;
+    }
+    
+    button.primaryContained:hover {
+        background: #9201A8;
+    }
+    
+    #comentario h3 {
+        margin: auto;
+        padding: 10px 20px;
+        margin-top: 10px;
+        color: grey
+    
+    }
+
+/* Aqui terminan los estilos de la página opiniones*/ 
