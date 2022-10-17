@@ -1,0 +1,33 @@
+body{
+    background: black;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+header { 
+      background: black;
+      height: 50px;
+      width: 90%;
+      text-align: center;
+      line-height: 100px;
+      margin: 0px;
+      color: darkgoldenrod;
+}
+
+#content{
+ float:left;
+ width: 70%;
+ background: black;
+ min-height: 500px;
+ padding:  40px;
+}
+*{
+ margin: 0px;
+ padding: 0px;
+}
+
+#container {
+ width: 1000px;
+ margin:0px auto;
+ border:01px solid red;
+
+}
