@@ -1,0 +1,35 @@
+
+nav{
+    background-color: black;
+    height: 110px;
+    width: 100px;
+    border:1px solid black;
+    float:left;
+    list-style: none;
+    margin: 0px;
+}
+
+
+ul li {
+    float: left;
+    list-style: none;
+    margin: 10px;
+    font-size: 15px;
+}
+  
+
+h1 h2 h3 h4 h5 {
+    
+     color:navy;
+     border-bottom: 2px solid;
+     font-size: 10px;
+}
+
+
+p{
+    color:white;
+    border-bottom: 2px solid;
+    font-size: 15px;
+    text-align: left;
+    float: center;
+}
