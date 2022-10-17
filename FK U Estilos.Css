@@ -1,0 +1,38 @@
+aside {
+         
+       float: right;
+       width: 30%;
+       background:black;
+       min-height: 200px;
+       padding-left:10px;
+       padding-right:10px;
+
+}
+
+footer{
+    background:black;
+    color:navy;
+    height: 05px;
+}
+
+.clearfix{
+          clear: both;
+}
+
+
+.article{
+    color: white;
+    margin-top: 15px;  
+    margin-bottom: 15px;
+    padding-bottom: 10px;
+    border-bottom: 1px solid #eee;
+  
+  
+.article: first-child{
+    border-bottom: 1px solid #eee;
+    padding-top: 10px;
+
+}
+
+.article h2{
+            font-size: 25px;
