@@ -35,11 +35,20 @@ Abstracción y Modularización en MVC (consultar los videos del Módulo Programa
 
 SPRINT 2
 Fecha Inicio = 17/10/2022 -  Fecha de Fin = 14/11/2022
-****** En las próximas semanas se dejará más detallado cada punto.
 
-Sitio funcional en hosting remoto de Sitio Institucional en WordPress y Frontend en subcarpeta (subdominio) y opcional linkeado al repositorio de GitHub/ GitHub Pages.
-
+Sitio funcional en hosting remoto de Sitio Institucional en WordPress (Este punto es para presentar al Empresa Ficticia que el grupo conforma, por lo que es parte indirecta del Proyecto. Pueden crear una sección en la Wiki con los registros de este sitio).
+Frontend 
+Funcionalidad con JavaScript en formularios
+En subcarpeta o subdominio o linkeado al repositorio de GitHub/ GitHub Actions. (La idea es que el sitio esté disponible en línea. La opción 1 sería que esté como subdominio dentro del hosting donde tienen el wordpress o la otra opción es que esté como página en su repositorio de Git)
 Backend
 Script de la BD en MySQL
 Consultas : Insert - Select - Update - JOIN
+Modelo de Caso de Uso de cada modularización.(mínimo 1 CRUD (Python) y listado de movimientos/historial, por ejemplo)
+
+Entregable en GitHub para valorar rama main con 3 carpetas: front, Back y documentación.
+
+Como presentación Final de Proyecto deberán realizar un video demo del producto (a modo de Review) de todo lo realizado por el equipo de desarrollo (Developer team y Scrum Master), no más de 10 minutos con la participación de cada uno explicando una parte de su trabajo, en defensa de todo lo realizado. 
+Medio de entrega: Link del video en la Wiki de GitHub.
+Rúbricas de valoración Sprint 2
+
 
