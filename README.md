@@ -14,8 +14,6 @@ Definir tareas dentro de las Historias de Usuario (GITHUB) ej dentro de las ISSU
 TAREAS
 Registrar la Especificación de Requerimientos mediante la documentación IEEE830 (subirlo en una carpeta de GitHub en la rama main).
 Git/GitHub : Instalación y registración
-https://github.com/AngelesMary/Proyecto-Full-stack/blob/1312f5bfadc1e057958313d2b6879ad35e2eb3df/Comparto%20'Documento%20IEE%20Std%20830-1998'%20contigo
-
 
 Crear Project estilo Kanban con incorporación de Historias de Usuarios, tareas, e incidencias.
 Idea de mapa del Sitio
