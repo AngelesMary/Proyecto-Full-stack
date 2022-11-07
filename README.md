@@ -30,23 +30,25 @@ Backend:
 Modelado de DB. DER, Modelo Relacional. 
 Abstracción y Modularización en MVC (consultar los videos del Módulo Programador Full Stack - Backend: Libro de Introducción a la programación en python)
 
-
 SPRINT 2
 Fecha Inicio = 17/10/2022 -  Fecha de Fin = 14/11/2022
 
-Sitio funcional en hosting remoto de Sitio Institucional en WordPress (Este punto es para presentar al Empresa Ficticia que el grupo conforma, por lo que es parte indirecta del Proyecto. Pueden crear una sección en la Wiki con los registros de este sitio).
+Sitio funcional en hosting remoto de Sitio Institucional en WordPress según lo solicitado en SGC (ES EL MISMO WORDPRESS). Este punto es para presentar al grupo conformado: 
+Quienes somos con sus CV, o como prefieran, si quieren una sección por cada Integrante.
+Breve descripción en el index del proyecto presentado en el módulo Full Stack 
+Link al proyecto del FrontEnd, según lo solicitado en el ítem siguiente. (Pueden además, agregar un botón o icono de GitHub para linkear a su repositorio)
 Frontend 
-Funcionalidad con JavaScript en formularios
-En subcarpeta o subdominio o linkeado al repositorio de GitHub/ GitHub Actions. (La idea es que el sitio esté disponible en línea. La opción 1 sería que esté como subdominio dentro del hosting donde tienen el wordpress o la otra opción es que esté como página en su repositorio de Git)
+Funcionalidad con JavaScript en formularios. Validar por tipos de inputs (text, number, email, date, select, segun lo que se requiera), agregar maxlenght y minlenght en los campos nombres, apellido, si solicitan DNI, usar MIN=1000000 MAX=99999999, por ejemplo. 
+En subcarpeta o subdominio o linkeado al repositorio de GitHub  (La idea es que el sitio esté disponible en línea. La opción 1 sería que esté como subdominio dentro del hosting donde tienen el WordPress. o la otra opción es que esté como página en su repositorio remoto.
 Backend
 Script de la BD en MySQL
 Consultas : Insert - Select - Update - JOIN
 Modelo de Caso de Uso de cada modularización.(mínimo 1 CRUD (Python) y listado de movimientos/historial, por ejemplo)
+Documenten en la WIKI, Ceremonias realizadas: Daily, Review, Retrospective. Actualizar IEEE830, y todas las mejoras sugeridas a los requerimientos mínimos descripto en el presente documento.
 
-Entregable en GitHub para valorar rama main con 3 carpetas: front, Back y documentación.
+Entregable en GitHub: Se valorará rama main con 3 carpetas: front, Back ( o MVC) y documentación (Diagramas, Scripts, doc IEEE830)
 
 Como presentación Final de Proyecto deberán realizar un video demo del producto (a modo de Review) de todo lo realizado por el equipo de desarrollo (Developer team y Scrum Master), no más de 10 minutos con la participación de cada uno explicando una parte de su trabajo, en defensa de todo lo realizado. 
 Medio de entrega: Link del video en la Wiki de GitHub.
 Rúbricas de valoración Sprint 2
-
 
